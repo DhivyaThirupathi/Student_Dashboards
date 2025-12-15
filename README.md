@@ -267,4 +267,4 @@ For issues or questions:
 
 ---
 
-Built with ❤️ for students, by students.
+Built by dhivya.
