@@ -250,13 +250,6 @@ project/
 - created_at (timestamp)
 - updated_at (timestamp)
 
-## Contributing
-
-This is a student project designed for learning and productivity enhancement. Feel free to fork and customize for your needs.
-
-## License
-
-MIT License - Feel free to use this project for learning and personal use.
 
 ## Support
 
